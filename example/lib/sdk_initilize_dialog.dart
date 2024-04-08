@@ -1,8 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:razorpay_flutter_customui/razorpay_flutter_customui.dart';
-import 'package:razorpay_flutter_customui/model/upi_account.dart';
-import 'package:razorpay_flutter_customui/card.dart' as RazorPayCard;
-import 'package:razorpay_flutter_customui/model/Error.dart';
 import 'package:razorpay_flutter_customui_example/payment_slection_page.dart';
 
 class SDKInitilizeDialog extends StatelessWidget {
